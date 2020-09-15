@@ -32,13 +32,13 @@ PDC ROP model is seen at the following Equations (check out page 55 in the Disse
 
 The depth that a cutter penetrates into the rock, along its normal direction is known as depth of cut (DOC). The depth of cut is a function of cutter normal force, rock strength, and the area beneath the cutter. For a blunt cutter, the area beneath the cutter includes the area beneath the cutter face (Ah in Figure 3.1) and wear flat area (C-E in Figure 3.2), while for a sharp cutter it is only the area beneath the cutter face (Ah in Figure 3.1). In the following pages, the contact area equations for both sharp and blunt cutters are presented. The cutter front area (Av) is then calculated by taking the cutter contact area (Acontact) and cutter BR angle into account (check out dissertation page 39).
 
-* Sharp PDC Cutter:
+* Sharp PDC Cutter.
 
 <p align="left">
   <img width="600" src="Assets/GIF_cutter_sharp.gif" >
 </p>
 
-* Worn PDC Cutter:
+* Worn PDC Cutter.
 
 <p align="left">
   <img width="600" src="Assets/GIF_cutter_worn2.gif" >
