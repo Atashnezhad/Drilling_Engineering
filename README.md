@@ -44,14 +44,12 @@ Here are codes for developing single and full bit Interfacial Friction Angle (IF
 </p>
 
 
+* Cutter side view and different areas
 
 <p align="center">
-  <img width="600" src="Assets/Cutter_sideview.PNG" >
+  <img width="800" src="Assets/Cutter_sideview2.PNG" >
 </p>
 
-<p align="center">
-  <img width="600" src="Assets/Cutter_IFA.PNG" >
-</p>
 
 
 
