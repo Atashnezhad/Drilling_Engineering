@@ -1,4 +1,8 @@
-# [Incorporating the Interfacial Friction Angle Concept into the PDC Single Cutter and Full Bit Modeling](https://shareok.org/bitstream/handle/11244/324806/Atashnezhad_okstate_0664D_16520.pdf?sequence=1).
+# [Incorporating the Interfacial Friction Angle Concept into the PDC Single Cutter and Full Bit Modeling.](https://shareok.org/bitstream/handle/11244/324806/Atashnezhad_okstate_0664D_16520.pdf?sequence=1)
+
+<p align="center">
+  <img width="1300" src="Assets/GIF_drilling paras.gif" >
+</p>
 
 
 **Authors:**
@@ -13,7 +17,7 @@ Over the past century, oil and gas served an important role in the US energy sec
 
 Here are codes for developing single and full bit Interfacial Friction Angle (IFA).
 
-The 
+
 
 
 
