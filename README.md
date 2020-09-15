@@ -44,10 +44,10 @@ Here are codes for developing single and full bit Interfacial Friction Angle (IF
 </p>
 
 
-* Cutter side view and different areas
+* Cutter 3D view and wear flat areas.
 
 <p align="left">
-  <img width="600" src="Assets/cutter_3d_Aws.PNG" >
+  <img width="400" src="Assets/cutter_3d_Aws.PNG" >
 </p>
 
 
