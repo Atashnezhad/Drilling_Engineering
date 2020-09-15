@@ -47,7 +47,7 @@ Here are codes for developing single and full bit Interfacial Friction Angle (IF
 * Cutter side view and different areas
 
 <p align="left">
-  <img width="600" src="Assets/Cutter_sideview2.PNG" >
+  <img width="600" src="Assets/cutter_3d_Aws.PNG" >
 </p>
 
 
