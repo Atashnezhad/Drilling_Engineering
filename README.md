@@ -44,7 +44,9 @@ Here are codes for developing single and full bit Interfacial Friction Angle (IF
 </p>
 
 
-* Cutter 3D view and wear flat areas.
+**Cutter 3D view and wear flat areas**
+
+In Figure B.1, a plane and a cylinder are shown. The plane intersected with the bottom side of the cylinder on the X-Y-Z coordinate. In Figure B.1, the Aw is the cutter wear flat area and the Aw′ is the projection of cutter wear flat area on the X-Y plane. Note that the Y and Y’ are laid on each other and X’-Y’-Z’ can rotate around its fixed Y’ axis (check out page 133).
 
 <p align="left">
   <img width="400" src="Assets/cutter_3d_Aws.PNG" >
