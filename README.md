@@ -54,6 +54,6 @@ In Figure B.1, a plane and a cylinder are shown. The plane intersected with the 
 </p>
 
 
-The codes used in the dissertation are provided in code folder. The docker image cab be found [here (https://hub.docker.com/repository/docker/atashnezhad/developeifa).
+The codes used in the dissertation are provided in code folder. The docker image cab be found [here] (https://hub.docker.com/repository/docker/atashnezhad/developeifa).
 
 
