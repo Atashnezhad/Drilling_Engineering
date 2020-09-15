@@ -1,2 +1,9 @@
-# Drilling_Engineering
-Codes related to Drilling Engineering domain
+# PhD dissertation codes 
+
+Here are codes for developing single and full bit Interfacial Friction Angle (IFA).
+
+
+
+
+
+
