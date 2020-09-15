@@ -31,7 +31,9 @@ PDC ROP model is seen at the following Equations (check out page 55 in the Disse
 
 Here are codes for developing single and full bit Interfacial Friction Angle (IFA).
 
-
+<p align="center">
+  <img width="600" src="Assets/GIF_cutter_sharp.gif" >
+</p>
 
 <p align="center">
   <img width="600" src="Assets/Cutter_sideview2.PNG" >
