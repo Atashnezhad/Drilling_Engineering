@@ -1,6 +1,6 @@
 # [Incorporating the Interfacial Friction Angle Concept into the PDC Single Cutter and Full Bit Modeling.](https://shareok.org/bitstream/handle/11244/324806/Atashnezhad_okstate_0664D_16520.pdf?sequence=1)
 
-## Inter-connection between different parameters is seen in the following visualization.
+Parameters that influence on drilling rate of penetration (ROP)
 
 <p align="center">
   <img width="1300" src="Assets/GIF_drilling paras.gif" >
