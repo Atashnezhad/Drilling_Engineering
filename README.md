@@ -33,21 +33,21 @@ Here are codes for developing single and full bit Interfacial Friction Angle (IF
 
 * Sharp PDC Cutter:
 
-<p align="center">
+<p align="left">
   <img width="600" src="Assets/GIF_cutter_sharp.gif" >
 </p>
 
 * Worn PDC Cutter:
 
-<p align="center">
+<p align="left">
   <img width="600" src="Assets/GIF_cutter_worn2.gif" >
 </p>
 
 
 * Cutter side view and different areas
 
-<p align="center">
-  <img width="800" src="Assets/Cutter_sideview2.PNG" >
+<p align="left">
+  <img width="600" src="Assets/Cutter_sideview2.PNG" >
 </p>
 
 
