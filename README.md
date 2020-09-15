@@ -18,11 +18,11 @@ Over the past century, oil and gas served an important role in the US energy sec
 
 PDC ROP model is seen at the following Equations (check out page 55 in the Dissertation - asset folder).
 
-<p align="center">
+<p align="left">
   <img width="400" src="Assets/Model1.PNG" >
 </p>
 
-<p align="center">
+<p align="left">
   <img width="600" src="Assets/Model2.PNG" >
 </p>
 
