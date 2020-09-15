@@ -1,4 +1,6 @@
-# [Incorporating the Interfacial Friction Angle Concept into the PDC Single Cutter and Full Bit Modeling.](https://shareok.org/bitstream/handle/11244/324806/Atashnezhad_okstate_0664D_16520.pdf?sequence=1)
+# Incorporating the Interfacial Friction Angle Concept into the PDC Single Cutter and Full Bit Modeling.
+
+Find Dissertaion [here](https://shareok.org/bitstream/handle/11244/324806/Atashnezhad_okstate_0664D_16520.pdf?sequence=1).
 
 ROP is a function of different parameters including WOB, RPM, hydraulic design, bit specifications, and other parameters. Parameters that influence on drilling rate of penetration (ROP) are seen at the following visualization.
 
